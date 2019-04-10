@@ -21,7 +21,7 @@ public class Main {
 		int baseHealthPotionAmount = 3; //Amount
 		int healthPotionAmount = baseHealthPotionAmount; //Amount
 		int healthPotionHealAmount = 30; //HP
-		int healthPotionDropChance = 30; //Percent
+		int healthPotionDropChance = 30; //Percent 
 
 		//Declare enemy variables
 		String[] enemies = {"Rat", "Boar", "Wolf", "Bear", "Tiger"}; //Names
